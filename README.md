@@ -1,4 +1,5 @@
 # Push-Notification-on-Android-
+# Php script to track android-app-uninstall-
 Simple PHP script to send push notification to an android app..
 
 Run this script using command: php push.php (on Ubuntu)
